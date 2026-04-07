@@ -4,11 +4,11 @@
 
 | 번호 | 문제 이름 | BOJ 번호 | 풀러 가기 |
 | :---: | :--- | :---: | :---: |
-| 1 | A + B - 3 | 10950 | [🔗 링크](https://www.acmicpc.net/problem/10950) |
-| 2 | 최소, 최대 | 10818 | [🔗 링크](https://www.acmicpc.net/problem/10818) |
-| 3 | 최댓값 | 2562 | [🔗 링크](https://www.acmicpc.net/problem/2562) |
-| 4 | 별 찍기 - 1 | 2438 | [🔗 링크](https://www.acmicpc.net/problem/2438) |
-| 5 | 별 찍기 - 2 | 2439 | [🔗 링크](https://www.acmicpc.net/problem/2439) |
+| 1 | A + B - 3 | 10950 | <a href="https://www.acmicpc.net/problem/10950" target="_blank">🔗 링크</a> |
+| 2 | 최소, 최대 | 10818 | <a href="https://www.acmicpc.net/problem/10818" target="_blank">🔗 링크</a> |
+| 3 | 최댓값 | 2562 | <a href="https://www.acmicpc.net/problem/2562" target="_blank">🔗 링크</a> |
+| 4 | 별 찍기 - 1 | 2438 | <a href="https://www.acmicpc.net/problem/2438" target="_blank">🔗 링크</a> |
+| 5 | 별 찍기 - 2 | 2439 | <a href="https://www.acmicpc.net/problem/2439" target="_blank">🔗 링크</a> |
 
 ---
 
