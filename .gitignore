@@ -1,2 +1,5 @@
 # vscode
 .vscode
+
+# discard .exe
+/src/week_1/*.exe
